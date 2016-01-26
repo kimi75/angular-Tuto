@@ -1,0 +1,23 @@
+{
+  "name": "Test",
+  "homepage": "https://github.com/kimi75/angular-Tuto",
+  "authors": [
+    "pfmonville <p_fmonville@hotmail.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9"
+  }
+}
